@@ -73,6 +73,8 @@ Library_SQL_Project/
 
 ---
 
-## 👤 Author
+Author
 
 Tinyiko Patience Mathebula
+Junior SQL / MySQL Database Administration Portfolio
+GitHub: https://github.com/Tinyiko-Mathebula
